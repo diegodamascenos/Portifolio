@@ -1,7 +1,7 @@
-# Projetos em Análise e Ciência de Dados.
-## Projetos em:
+# Projetos em Análise e Ciências de Dados.
+## Projetos:
 ## Python 
-### 🔗 Superstore Sales Dataset <br>
+### 🔗 <a href = 'https://github.com/diegodamascenos/superstore_sales'>Superstore Sales Dataset</a> <br>
 - Neste projeto, realizei uma análise exploratória dos dados de vendas de uma loja fictícia, e seus indicativos de desempenho.
 - O gráfico abaixo apresenta uma parte da análise, onde procurei explorar as vendas de produtos e as categorias mais vendidas, a fim de gerar insights e recomendações 
 <br>
