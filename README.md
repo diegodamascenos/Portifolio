@@ -1,4 +1,4 @@
-# Projetos em Análise e Ciências de Dados.
+# Analytics and Data Sciences projects.
 ## Projetos:
 ## Python 
 ### 🔗 <a href = 'https://github.com/diegodamascenos/superstore_sales'>Superstore Sales Dataset</a> <br>
