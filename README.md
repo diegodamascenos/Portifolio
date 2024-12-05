@@ -25,5 +25,44 @@ E com o intuito de expandir e demonstrar meus conhecimentos sobre a ferramenta e
 
 
 ![streamlit](https://github.com/user-attachments/assets/6849a1ee-c6c3-4d11-a988-9063815f28c6)
+<hr>
+
+## SQL
+### Impactos do trabalho remoto na saúde mental - SQL
+
+• <a href = 'https://medium.com/@diego.damascenoti/impactos-do-trabalho-remoto-na-saúde-mental-sql-048cd1653f2f'>Projeto Completo no Medium</a>
+• Analisando os impactos do trabalho remoto na saúde mental e possíveis causas potenciais <br>
+• Compreendendo como o trabalho remoto impacta negativamente em alguns aspectos, e positivamente em outros. <br>
+• Analisando quais as idades mais impactadas pelo trabalho remoto. <br>
+• Quais as recomendações são feitas para a diminuição dos impactos negativos gerados pelo trabalho remoto. <br>
+• Exemplos da Análise: <br>
+  De acordo com a análise, a faixa etária mais impactada pelo trabalho remoto, são os grupos de pessoas com a idade de 22 a 30 anos.
+
+  
+  
+  ![faixas_etarias](https://github.com/user-attachments/assets/6ffc531f-336b-425a-a78f-873ea5095066)
+
+
+
+
+    
+
+• Também, foi possível analisar o equilíbrio entre vida pessoal e vida profissional dos trabalhadores, indicando forte impacto na saúde mental dos trabalhadores
+
+
+
+![equilibrio_remotos](https://github.com/user-attachments/assets/4e35fd6d-4dbf-4509-870c-2b4f96dd8774)
+
+
+
+
+
+Desta forma, foi possível fazer algumas recomendações pontuais para que os impactos gerados, sejam positivos para ambas as partes (empregador/empregado)
+
+
+
+
+
+![recomendacoes](https://github.com/user-attachments/assets/9d3ec2d2-014d-4c64-bc2f-8d221835841e)
 
 
