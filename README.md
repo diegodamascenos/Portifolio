@@ -27,6 +27,20 @@ E com o intuito de expandir e demonstrar meus conhecimentos sobre a ferramenta e
 ![streamlit](https://github.com/user-attachments/assets/6849a1ee-c6c3-4d11-a988-9063815f28c6)
 <hr>
 
+### <a href = "https://calculadoracagr-funcional.streamlit.app/"> Cálculo de CAGR (Taxa de Crescimento Anual Composta) </a>
+Durante meus estudos em Python, estatística, etc, senti a necessidade de calcular a taxa de crescimento anual composta de uma empresa, e pensando nisso, criei esta calculadora que calcula o CAGR de forma intuitiva e, de forma simples e rápida. <br>
+O CAGR (Taxa de Crescimento Anual Composta) é utilizado para avaliar o desempenho de um investimento ao longo do tempo. Comparar o crescimento de diferentes ativos ou empresas em um período, entre outras métricas que podem ser calculadas. <br>
+
+
+Este é um WebApp criado com o Streamlit, uma biblioteca Open Source poderosa, capaz de forncecer inúmeras funcionalidades.   
+
+
+
+![CAGR](https://github.com/user-attachments/assets/c7497243-e6d4-407b-b306-2b11f0ca0d1c)
+
+
+<hr>
+
 ## SQL
 ### Impactos do trabalho remoto na saúde mental - SQL
 
