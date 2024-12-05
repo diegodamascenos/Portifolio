@@ -30,7 +30,7 @@ E com o intuito de expandir e demonstrar meus conhecimentos sobre a ferramenta e
 ## SQL
 ### Impactos do trabalho remoto na saúde mental - SQL
 
-• <a href = 'https://medium.com/@diego.damascenoti/impactos-do-trabalho-remoto-na-saúde-mental-sql-048cd1653f2f'>Projeto Completo no Medium</a>
+• <a href = 'https://medium.com/@diego.damascenoti/impactos-do-trabalho-remoto-na-saúde-mental-sql-048cd1653f2f'>Projeto Completo no Medium</a> <br>
 • Analisando os impactos do trabalho remoto na saúde mental e possíveis causas potenciais <br>
 • Compreendendo como o trabalho remoto impacta negativamente em alguns aspectos, e positivamente em outros. <br>
 • Analisando quais as idades mais impactadas pelo trabalho remoto. <br>
